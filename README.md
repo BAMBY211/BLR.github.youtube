@@ -1,10 +1,8 @@
-# BambyLove - En construction
-
-🚧 Site en cours de développement 🚧
-
-## Prochaines étapes
-- [ ] Corriger les erreurs CSS
-- [ ] Optimiser les images
-- [ ] Vérifier le responsive
-
-## Structure
+bambylove/
+├── index.html
+├── css/
+│   └── style.css
+├── img/
+│   ├── produits/
+│   └── 233.jpg
+└── README.md
